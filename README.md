@@ -1,2 +1,2 @@
-# goutenberg
-Just kidding!
+# GOUTENBERG
+I'm not editor.
